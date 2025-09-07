@@ -2,7 +2,8 @@
 
 A responsive Next.js dashboard application for monitoring wealth management metrics such as AUM, SIP, purchases, redemptions, and client statistics. The dashboard includes charts (Line, Bar, and Pie) using Recharts and a PDF download functionality using `html2canvas` and `jsPDF`.
 
-![Dashboard Screenshot](./screenshot.png)
+![Dashboard Screenshot](./public/screenshot.png)
+
 
 ---
 
